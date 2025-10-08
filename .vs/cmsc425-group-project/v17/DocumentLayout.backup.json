@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cmsc425\\code\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|c:\\downloads\\school stuff\\cmsc425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\player\\take damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\player\\take damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|c:\\downloads\\school stuff\\cmsc425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\tanksmvp\\code\\takehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\tanksmvp\\code\\takehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|c:\\downloads\\school stuff\\cmsc425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\shotgun\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Shooter.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\Shooter.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\TanksMVP\\Code\\Shooter.cs",
@@ -55,7 +63,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Take Damage.cs",
+              "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Player\\Take Damage.cs",
+              "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Player\\Take Damage.cs",
+              "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Player\\Take Damage.cs",
+              "RelativeToolTip": "Assets\\CMSC425\\Code\\Player\\Take Damage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:35:07.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TakeHit.cs",
+              "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\TakeHit.cs",
+              "RelativeDocumentMoniker": "Assets\\CMSC425\\TanksMVP\\Code\\TakeHit.cs",
+              "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\TakeHit.cs",
+              "RelativeToolTip": "Assets\\CMSC425\\TanksMVP\\Code\\TakeHit.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:35:01.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Shot.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\Shot.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\TanksMVP\\Code\\Shot.cs",
@@ -67,20 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Bullet.cs",
               "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Bullet.cs",
               "RelativeToolTip": "Assets\\CMSC425\\Code\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T21:08:18.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Shotgun\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Shotgun\\Enemy.cs",
@@ -92,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Shooter1.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Shotgun\\Shooter1.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Shotgun\\Shooter1.cs",
@@ -104,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ShotgunActions.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Shotgun\\ShotgunActions.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Shotgun\\ShotgunActions.cs",
@@ -116,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Mover.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\Mover.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\TanksMVP\\Code\\Mover.cs",

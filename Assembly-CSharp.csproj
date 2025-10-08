@@ -61,15 +61,17 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.56f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CMSC425\Code\Player\MovePlayer.cs" />
     <Compile Include="Assets\CMSC425\Code\Shotgun\Enemy.cs" />
+    <Compile Include="Assets\CMSC425\Code\Projectiles\IEnemyProjectile.cs" />
     <Compile Include="Assets\CMSC425\TanksMVP\Code\Turner.cs" />
-    <Compile Include="Assets\CMSC425\Code\MovePlayer.cs" />
     <Compile Include="Assets\CMSC425\TanksMVP\Code\Mover.cs" />
+    <Compile Include="Assets\CMSC425\Code\Projectiles\Bullet.cs" />
     <Compile Include="Assets\CMSC425\Code\Shotgun\Shooter1.cs" />
     <Compile Include="Assets\CMSC425\TanksMVP\Code\Shooter.cs" />
     <Compile Include="Assets\CMSC425\TanksMVP\Code\TakeHit.cs" />
     <Compile Include="Assets\CMSC425\Code\Shotgun\ShotgunActions.cs" />
-    <Compile Include="Assets\CMSC425\Code\Bullet.cs" />
+    <Compile Include="Assets\CMSC425\Code\Player\Take Damage.cs" />
     <Compile Include="Assets\CMSC425\TanksMVP\Code\Shot.cs" />
   </ItemGroup>
   <ItemGroup>

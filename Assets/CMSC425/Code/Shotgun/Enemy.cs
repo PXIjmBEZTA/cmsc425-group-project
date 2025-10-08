@@ -6,11 +6,12 @@ public class Enemy : MonoBehaviour
     [Header("Shooting Settings")]
     public GameObject bulletPrefab;      // Your bullet prefab
     public float shootCooldown = 2f;     // Seconds between shots
-    public int bulletCount = 12;         // Number of bullets per spray
+    public int bulletCount;         // Number of bullets per spray
     public float spreadAngle = 60f;      // Cone angle
 
     private bool canShoot = true;
 
+   
 
     void Update()
     {
@@ -23,7 +24,7 @@ public class Enemy : MonoBehaviour
     IEnumerator Shoot1()
     {
         canShoot = false;
-
+        bulletCount = Random.Range(12, 16);
         float angleStep = spreadAngle / (bulletCount - 1);
         float startAngle = -spreadAngle / 2f;
 
