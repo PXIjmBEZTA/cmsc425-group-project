@@ -5,10 +5,10 @@ using UnityEngine.InputSystem.Controls;
 public class MovePlayer : MonoBehaviour
 {
     public float speed = 4;
-    public Key forwardMove = Key.UpArrow;
-    public Key backwardMove = Key.DownArrow;
-    public Key leftMove = Key.LeftArrow;
-    public Key rightMove = Key.RightArrow;
+    public Key forwardMove = Key.W;
+    public Key backwardMove = Key.S;
+    public Key leftMove = Key.A;
+    public Key rightMove = Key.D;
 
     KeyControl forwardKey;
     KeyControl backwardKey;

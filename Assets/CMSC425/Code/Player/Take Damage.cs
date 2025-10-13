@@ -34,7 +34,7 @@ public class TakeDamage : MonoBehaviour
         GetComponent<Collider>().enabled = false;        // disable collisions
         GetComponent<MeshRenderer>().enabled = false;    // hide player visuals
         GetComponent<MovePlayer>().enabled = false;
-
+        GetComponent<PlayerShoot>().enabled = false;
 
         yield return new WaitForSeconds(respawnDelay); //this is a delay before continuing code
 
@@ -44,6 +44,8 @@ public class TakeDamage : MonoBehaviour
         GetComponent<Collider>().enabled = true;        // disable collisions
         GetComponent<MeshRenderer>().enabled = true;    // hide player visuals
         GetComponent<MovePlayer>().enabled = true;
+        GetComponent<PlayerShoot>().enabled = true;
+
         isRespawning = false;
         StartCoroutine(InvincibilityPeriod());
     }
