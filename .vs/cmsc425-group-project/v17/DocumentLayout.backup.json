@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|c:\\downloads\\school stuff\\cmsc425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\projectiles\\enemy\\ienemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\projectiles\\enemy\\ienemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|c:\\downloads\\school stuff\\cmsc425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\enemies\\shotgun\\shooter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\enemies\\shotgun\\shooter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\enemies\\shotgun\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\enemies\\shotgun\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\Shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CMSC425\\TanksMVP\\Code\\Shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\player\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\player\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\player\\take damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\player\\take damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\projectiles\\enemy\\ienemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\projectiles\\enemy\\ienemyprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\projectiles\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\projectiles\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|c:\\downloads\\school stuff\\cmsc425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\player\\take damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\player\\take damage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\enemies\\shotgun\\shotgunactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\enemies\\shotgun\\shotgunactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\player\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\player\\playershoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\code\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A869D2E5-D623-2CE2-952A-348800045898}|Assembly-CSharp.csproj|solutionrelative:assets\\cmsc425\\code\\player\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Shotgun\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +55,16 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CMSC425\\Code\\Projectiles\\IEnemyProjectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\tanksmvp\\code\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cmsc425\\tanksmvp\\code\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\TakeHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CMSC425\\TanksMVP\\Code\\TakeHit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\tanksmvp\\code\\takehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cmsc425\\tanksmvp\\code\\takehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\Shot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CMSC425\\TanksMVP\\Code\\Shot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\tanksmvp\\code\\shot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cmsc425\\tanksmvp\\code\\shot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\assets\\cmsc425\\tanksmvp\\code\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\cmsc425\\tanksmvp\\code\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\Mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CMSC425\\TanksMVP\\Code\\Mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +78,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Shooter.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\TanksMVP\\Code\\Shooter.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\TanksMVP\\Code\\Shooter.cs",
@@ -87,11 +87,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T21:17:32.148Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Projectiles\\Bullet.cs",
@@ -104,19 +105,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IEnemyProjectile.cs",
-              "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
-              "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
-              "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
-              "RelativeToolTip": "Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Title": "Shooter1.cs",
+              "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Shooter1.cs",
+              "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Shooter1.cs",
+              "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Shooter1.cs",
+              "RelativeToolTip": "Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Shooter1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T19:09:00.607Z",
+              "WhenOpened": "2025-10-13T21:25:59.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\Enemy\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Projectiles\\Enemy\\Bullet.cs",
@@ -124,25 +125,11 @@
               "RelativeToolTip": "Assets\\CMSC425\\Code\\Projectiles\\Enemy\\Bullet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:46:50.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T18:46:50.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Enemy.cs",
-              "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Enemy.cs",
-              "RelativeToolTip": "Assets\\CMSC425\\Code\\Enemies\\Shotgun\\Enemy.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T18:45:07.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ShotgunActions.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Enemies\\Shotgun\\ShotgunActions.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Enemies\\Shotgun\\ShotgunActions.cs",
@@ -154,31 +141,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "MovePlayer.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Player\\MovePlayer.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Player\\MovePlayer.cs",
               "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Player\\MovePlayer.cs",
               "RelativeToolTip": "Assets\\CMSC425\\Code\\Player\\MovePlayer.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T20:38:10.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PlayerShoot.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Player\\PlayerShoot.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Player\\PlayerShoot.cs",
               "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Player\\PlayerShoot.cs",
               "RelativeToolTip": "Assets\\CMSC425\\Code\\Player\\PlayerShoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T20:36:41.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IEnemyProjectile.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\IEnemyProjectile.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Projectiles\\IEnemyProjectile.cs",
@@ -186,8 +173,7 @@
               "RelativeToolTip": "Assets\\CMSC425\\Code\\Projectiles\\IEnemyProjectile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T17:07:23.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T17:07:23.957Z"
             },
             {
               "$type": "Document",
@@ -197,10 +183,21 @@
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Player\\Take Damage.cs",
               "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Player\\Take Damage.cs",
               "RelativeToolTip": "Assets\\CMSC425\\Code\\Player\\Take Damage.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAcAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T16:35:07.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T16:35:07.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnemyProjectile.cs",
+              "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
+              "ToolTip": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
+              "RelativeToolTip": "Assets\\CMSC425\\Code\\Projectiles\\Enemy\\IEnemyProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T19:09:00.607Z"
             },
             {
               "$type": "Document",
@@ -228,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Bullet.cs",
@@ -239,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Shotgun\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Shotgun\\Enemy.cs",
@@ -250,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ShotgunActions.cs",
               "DocumentMoniker": "C:\\Downloads\\School Stuff\\CMSC425\\cmsc425-group-project\\cmsc425-group-project\\Assets\\CMSC425\\Code\\Shotgun\\ShotgunActions.cs",
               "RelativeDocumentMoniker": "Assets\\CMSC425\\Code\\Shotgun\\ShotgunActions.cs",

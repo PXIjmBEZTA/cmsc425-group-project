@@ -63,13 +63,16 @@
   <ItemGroup>
     <Compile Include="Assets\CMSC425\Code\Projectiles\Enemy\IEnemyProjectile.cs" />
     <Compile Include="Assets\CMSC425\Code\Player\MovePlayer.cs" />
-    <Compile Include="Assets\CMSC425\Code\Projectiles\Player\PlayerBullet.cs" />
+    <Compile Include="Assets\CMSC425\Code\Projectiles\Player\PlayerBulletShoot.cs" />
     <Compile Include="Assets\CMSC425\Code\Player\PlayerShoot.cs" />
+    <Compile Include="Assets\CMSC425\Code\Projectiles\Player\IPlayerBullet.cs" />
     <Compile Include="Assets\CMSC425\Code\Projectiles\Enemy\Bullet.cs" />
     <Compile Include="Assets\CMSC425\Code\Enemies\Shotgun\Shooter1.cs" />
     <Compile Include="Assets\CMSC425\Code\Enemies\Shotgun\ShotgunActions.cs" />
-    <Compile Include="Assets\CMSC425\Code\Enemies\Shotgun\Enemy.cs" />
+    <Compile Include="Assets\CMSC425\Code\Enemies\EnemyTakeDamage.cs" />
     <Compile Include="Assets\CMSC425\Code\Player\Take Damage.cs" />
+    <Compile Include="Assets\CMSC425\Code\Enemies\Shotgun\Shotgun.cs" />
+    <Compile Include="Assets\CMSC425\Code\Enemies\IEnemy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
