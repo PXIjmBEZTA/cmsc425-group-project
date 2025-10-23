@@ -964,6 +964,8 @@ MonoBehaviour:
   bulletPrefab: {fileID: 1208900415017191153, guid: 5a4cc93a6d9cbe94eb723e0dbac81a49, type: 3}
   firePoint: {fileID: 911858892}
   fireRate: 0.2
+  counter: 0
+  isBig: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
